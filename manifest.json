@@ -1,0 +1,16 @@
+{
+  "name": "Odonteeth+",
+  "short_name": "Ondonteeth",
+  "theme_color": "#00d1b2",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://odonteeth.github.io/app/index.php",
+  "icons": [
+      {
+          "src": "https://odonteeth.github.io/app/static/logo.png?raw=true",
+          "sizes": "1024x1024",
+          "type": "image/png"
+      }
+  ]
+}
